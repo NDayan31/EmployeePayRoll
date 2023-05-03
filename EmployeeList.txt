@@ -1,0 +1,9 @@
+10|Nadav Dayan|43.62|18.0
+11|Antonio Fernandes|42.01|17.0
+12|Joseph Chiodo|42.34|18.5
+13|Hector Gil|43.11|21.0
+14|Raymundo Gomez|53.8|25.50
+15|Aurora Reyez|38.9|14.75
+16|Yaritza Colon|40.34|19.78
+17|Alberto Ramos|52.40|28.45
+18|Sal Marra|35.2|16.3
